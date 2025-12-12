@@ -1,0 +1,3 @@
+print("sanyak")
+
+print("some")
